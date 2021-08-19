@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(148, 42, 148);
+}
+
+header{
+    background-color: black;
+}
+
+
+
+.cabeca{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color : white;
+    height: 50px;
+}
+
+.texto{
+    text-align: center;
+    font-size: 20px;
+    margin: 50px 150px 60px;
+    color:white;
+}
+
+.foto3{
+    display: flex;
+    justify-content: center;
+    margin: 50px; 
+}
+
+.botao{
+    display: flex;
+    justify-content:center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+button{
+    height: 60px;
+    width: 125px;
+    border-style: solid;
+    border-radius: 0px 20px 0px 20px;
+    box-shadow: 10px 10px 10px 0px;
+}
+
+footer{
+    background-color: black;
+    height: 100px;
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    height: 100px;
+}

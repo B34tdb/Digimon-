@@ -1,0 +1,64 @@
+body{
+    background-color: gray;
+}
+
+header{
+    background-color: black;
+}
+
+.texto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color:red;
+}
+
+.text{
+        text-align: center;
+        color: red;
+        font-size: 50px;
+        margin: 50px 0 0;
+        height: 50px;
+        padding: 10px 100px;
+    }
+
+
+
+.botao{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   }
+   
+   .foto2{
+    display: flex;
+    justify-content:center;
+    margin-top: 140px;
+   }
+
+
+   button{
+       height: 60px;
+       width: 125px;
+       border-style: solid;
+       border-radius: 0px 20px 0px 20px;
+       box-shadow: 10px 10px 10px 0px;
+   }
+
+   footer{
+    background-color: black;
+    padding: 1%;
+    height: 100px;
+  }
+  
+  .final{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     color: red;
+     font-size: 15px;
+     margin: 62px 0 0;
+     height: 100px;
+   }  

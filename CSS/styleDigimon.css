@@ -1,0 +1,80 @@
+ .header{
+    background-color: rgb(31, 118, 233);
+    text-align: center;
+}
+ 
+ .bem{
+    color:white;
+} 
+
+Body{
+    background-color: rgb(18, 185, 214);
+}
+
+ .primeiro{
+    text-align: center;
+    padding: 50px 150px;
+    color: white;
+}
+
+ .foto1{
+  width: 940px;
+  margin: 0 auto;
+ padding: 45px 0;
+ }
+
+ .escolha{
+    display: flex;
+    justify-content:space-around;
+    
+  }
+
+ .escolha img{
+    width: 300px;
+    height: 300px;
+    vertical-align: middle;
+} 
+
+.escolha li {
+    text-align: center;
+    vertical-align: top;
+    box-sizing: border-box;
+    border-radius: 0px;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px ;
+    margin-bottom: 4px;
+  } 
+
+  .botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+   }
+   
+   button{
+       height: 60px;
+       width: 100px;
+       border-style: solid;
+       border-radius: 0px 20px 0px 20px;
+   }
+   
+
+ footer{
+    text-align: center;
+    background-color: rgb(22, 113, 231);
+    padding: 20px;    
+  }
+
+ .final{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    color: white;
+    font-size: 15px;
+    margin: 10px 0 0;
+    height: 50px;
+  }  
+  
